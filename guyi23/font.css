@@ -1,5 +1,5 @@
 :root {
-  --monospace: "JetBrainsMonoNL", "JetBrains Mono", "Fira Code", "Cascadia Code", Menlo, "Ubuntu Mono", Consolas, HYZhengYuan;
+  --monospace: Consolas, 'Courier New', monospace;
   /*代码字体*/
   --text-font: var(--monospace);
   /*正文字体*/
