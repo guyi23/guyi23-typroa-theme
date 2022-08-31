@@ -1,0 +1,15 @@
+:root {
+  --monospace: "JetBrainsMonoNL", "JetBrains Mono", "Fira Code", "Cascadia Code", Menlo, "Ubuntu Mono", Consolas, HYZhengYuan;
+  /*代码字体*/
+  --text-font: var(--monospace);
+  /*正文字体*/
+  --title-font: var(--monospace);
+  /*标题字体*/
+  --text-line-height: 1.6;
+  /*正文行间距*/
+  --code-block-line-height: 1.6;
+  /*代码块行间距*/
+  --p-spacing: 0.8rem;
+  /*段间距*/
+  --text-size: 12px;
+}
