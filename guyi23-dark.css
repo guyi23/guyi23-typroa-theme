@@ -36,7 +36,7 @@
   --a-color: var(--drake-highlight);
   --variable-color: var(--drake-highlight);
   --outline-active-color: var(--a-color);
-  --code-block-bg-color: #1b1b1b;
+  --code-block-bg-color: rgba(20, 20, 20, 1);
   --code-block-color: var(--text-color);
   --title-color: #D79751;
   --blockquote-border-color: var(--drake-accent);
@@ -428,7 +428,6 @@ h4 {
 }
 
 h4 .md-plain{
-  background: rgba(215, 151, 81, 0.1);
   padding: 1px 2px;
   border: 1px dashed var(--title-color);
 }
