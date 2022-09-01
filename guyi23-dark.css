@@ -1315,10 +1315,6 @@ a.ty-link {
   border-left: 1px solid var(--code-block-color);
 }
 
-footer{
-  background-color: black;
-}
-
 #typora-sidebar-resizer{
   background: rgba(37, 37, 38, 1);
   width: 0px;
@@ -1368,6 +1364,7 @@ footer{
 footer{
   background: rgba(60, 60, 60, 1)!important;
   right: 0!important;
+  border: none!important;
 }
 
 #write{
